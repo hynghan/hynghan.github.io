@@ -29,25 +29,25 @@ bio: My research interests include Human-Computer Interaction(HCI), User Experie
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Entertainment Activities with Haptics
+  - Motion Guidance with Haptics
+  - Intelligent User Interface
 
 # Education to show in About widget
 education:
   courses:
-    - course: Master's Student
-      institution: KAIST
-      year: 2023 - Present
-    - course: B.S. in Engineering
-      institution: DGIST
-      year: 2019 - 2023
-    - course: Exchange student program
-      institution: Seoul National University
-      year: 2022 - 2023
-    - course: Exchange student program
-      institution: University of California, Berkeley
-      year: 2022
+    - course: KAIST
+      institution: Master's Student, Sep 2023 - Present
+      # year: 
+    - course: DGIST
+      institution: B.S. in Engineering, Feb 2019 - Feb 2023
+      # year: 
+    - course: Seoul National University
+      institution: Exchange student program, Dec 2021 - Jun 2022
+      # year: 
+    - course: University of California, Berkeley
+      institution: Exchange student program, Jun 2021 - Aug 2021
+      # year: 
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
