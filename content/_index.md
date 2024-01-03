@@ -39,7 +39,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: Abount Me
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   # - block: skills
@@ -76,16 +76,48 @@ sections:
               * Motion Guidance based on Haptics
               * Haptic Rendering & Feedback
 
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Undergraduate Researcher
+          company: Research Division of Future Automotive Technology
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Convergence Research Institute, DGIST
+          date_start: '2020-10-01'
+          date_end: '2021-12-31'
+          description: |2-
+              Responsibilities include:
+
+              * Human Re-identification
+              * Pose Estimation
+              * Human-Robot Interaction
+
+        - title: Research Intern
+          company: Data-Intensive Computing Systems Laboratory
+          company_url: 'https://datalab.dgist.ac.kr/'
+          company_logo: org-x
+          location: Dept. of Electrical Engineering & Computer Science, DGIST
+          date_start: '2020-06-01'
+          date_end: '2020-08-31'
+          description: |2-
+              Responsibilities include:
+
+              * File System (Operation System)
+              * Code Version Management(Git/Github)
+
+        - title: Research Intern
+          company: Theoretical and Computational Biophysics Laboratory
+          company_url: 'https://dgist.ac.kr/'
+          company_logo: org-B
+          location: Dept. of Brain Science, DGIST
+          date_start: '2020-01-01'
+          date_end: '2020-02-31'
+          description: |2-
+              Responsibilities include:
+
+              * Basics of Biophysics 
     design:
       columns: '2'
+  
+  
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
