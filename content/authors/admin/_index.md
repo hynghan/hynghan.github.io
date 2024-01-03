@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Master's Student in Culture Technology
+role: HCI Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -38,13 +38,13 @@ education:
   courses:
     - course: Master's Student in Culture Technology
       institution: KAIST
-      # year: 
+      year: 2023 - Present
     - course: B.S. in Engineering
       institution: DGIST
-      year: 2023
+      year: 2019 - 2023
     - course: Exchange student program
       institution: Seoul National University
-      year: 2022
+      year: 2022 - 2023
     - course: Exchange student program
       institution: University of California, Berkeley
       year: 2022
@@ -96,22 +96,22 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: "mailto:hyhan@kaist.ac.kr"
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/hyhan_
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  #   icon_pack: fas
+  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/h0han
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/hyhan/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
