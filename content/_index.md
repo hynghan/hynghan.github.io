@@ -106,7 +106,7 @@ sections:
         - title: Research Intern
           company: Theoretical and Computational Biophysics Laboratory
           company_url: 'https://dgist.ac.kr/'
-          company_logo: org-B
+          company_logo: org-x
           location: Dept. of Brain Science, DGIST
           date_start: '2020-01-01'
           date_end: '2020-02-31'
@@ -187,7 +187,7 @@ sections:
   #     # Choose a layout view
   #     view: compact
   #     columns: '2'
-  
+
   - block: portfolio
     id: projects
     content:
