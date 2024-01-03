@@ -138,17 +138,17 @@ sections:
           date_start: '2021-06-01'
           date_end: '2022-11-25'
           description: |2-
-              NFT Project
-                - Contributing to the designing of NFT generative algorithm, community (Discord, Twitter) concept/content/channel planning and management, and holder utility planning.
-                - In particular, prioritizing the planning of utilities that allow WEB3 players to experience 'Interoperability' in the WEB3 world (Metaverse and games) while considering the mental model of WEB3 players.
-                
-              Project LUCK
-                - Contributing to the planning and development of a utility token (ERC-20 Interface) for a blockchain-based viral marketing protocol, $LUCK, utilizing Binance Smart Chain (BSC).
-                - Responsibilities include: planning the token concept and utility, designing a sustainable token ecosystem, planning and writing the whitepaper, planning the landing page, and planning and managing the community concept/content/channel.
+            NFT Project
+              * Contributing to the designing of NFT generative algorithm, community (Discord, Twitter) concept/content/channel planning and management, and holder utility planning.
+              * In particular, prioritizing the planning of utilities that allow WEB3 players to experience 'Interoperability' in the WEB3 world (Metaverse and games) while considering the mental model of WEB3 players.
+              
+            Project LUCK
+              * Contributing to the planning and development of a utility token (ERC-20 Interface) for a blockchain-based viral marketing protocol, $LUCK, utilizing Binance Smart Chain (BSC).
+              * Responsibilities include: planning the token concept and utility, designing a sustainable token ecosystem, planning and writing the whitepaper, planning the landing page, and planning and managing the community concept/content/channel.
 
-              Conducting research on WEB3 items
-                - Planning WEB3-based solutions for the gaming industry.
-                - Conducting research on game industry-related companies within a specified period, based on the amount of funding from investors, and reviewing the feasibility of applying WEB3-based technologies within their solutions.
+            Conducting research on WEB3 items
+              * Planning WEB3-based solutions for the gaming industry.
+              * Conducting research on game industry-related companies within a specified period, based on the amount of funding from investors, and reviewing the feasibility of applying WEB3-based technologies within their solutions.
 
         - title: Marketing Intern
           company: Doctors
@@ -170,7 +170,7 @@ sections:
           date_start: '2021-02-01'
           date_end: '2021-06-21'
           description: |2-
-              AI-based home training posture guide solution for older adults to solve lack of exercise**
+              **AI-based home training posture guide solution for older adults to solve lack of exercise**
               * Conducting research and developing technology through a UGRP (Undergraduate Group Research Program) and proceeding to start a business.
               * Conducting a Product-market fit exploration in "AI-based home training posture guide solution" and focusing on the target demographic of older adults, and the problem of lack of exercise to develop the product.
 
