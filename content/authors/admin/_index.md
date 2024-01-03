@@ -17,15 +17,15 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Master's Student
+role: Master's Student in Culture Technology
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: KAIST
+    url: https://www.kaist.ac.kr/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Human-Computer Interaction(HCI), User Experience(UX) and Haptics.
 
 # Interests to show in About widget
 interests:
@@ -36,15 +36,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: M.S. in Culture Technology
+    - course: Master's Student in Culture Technology
       institution: KAIST
-      year: 2023 - Present
+      # year: 
     - course: B.S. in Engineering
       institution: DGIST
-      year: 2019 - 2023
+      year: 2023
     - course: Exchange student program
       institution: Seoul National University
-      year: 2022 - 2023
+      year: 2022
     - course: Exchange student program
       institution: University of California, Berkeley
       year: 2022
