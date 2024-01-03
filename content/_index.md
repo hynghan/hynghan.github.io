@@ -68,8 +68,8 @@ sections:
           # company_logo: '../images/lablogo.png'
           company_logo: org-x
           location: Graduate School of Culture Technology, KAIST
-          date_start: 'Mar 2023'
-          date_end: 'Aug 2023'
+          date_start: '2023-03-01'
+          date_end: '2023-08-25'
           description: |2-
               Responsibilities include:
 
