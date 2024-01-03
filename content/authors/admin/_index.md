@@ -21,8 +21,8 @@ role: HCI Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: KAIST
-    url: https://www.kaist.ac.kr/en/
+  - name: HCI Tech Lab @ KAIST
+    url: https://hcitech.org/index.html
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Human-Computer Interaction(HCI), User Experience(UX) and Haptics.
@@ -36,7 +36,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Master's Student in Culture Technology
+    - course: Master's Student
       institution: KAIST
       year: 2023 - Present
     - course: B.S. in Engineering
@@ -111,7 +111,7 @@ social:
     link: https://github.com/h0han
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/hyhan/
+    link: https://www.linkedin.com/hyhan
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -123,5 +123,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I aim to deeply commit to pioneering efforts that enhance seamless interactions between products or services and users at the endpoints, applying cutting-edge technologies. My interest lies in conducting research to create user experiences that transcend spatial and temporal constraints, enabling the enjoyment of a diverse range of entertainment activities. It is my aspiration to conduct research that is both delightful and enriching for all parties involved, including both the target users and the researchers.
 {style="text-align: justify;"}
