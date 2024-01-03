@@ -66,6 +66,7 @@ sections:
           company: HCI Tech Lab
           company_url: 'https://hcitech.org/index.html'
           # company_logo: '../images/lablogo.png'
+          company_logo: org-x
           location: Graduate School of Culture Technology, KAIST
           date_start: 'Mar 2023'
           date_end: 'Aug 2023'
