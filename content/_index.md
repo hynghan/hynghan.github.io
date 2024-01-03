@@ -78,7 +78,7 @@ sections:
 
         - title: Undergraduate Researcher
           company: Research Division of Future Automotive Technology
-          company_url: ''
+          company_url: 'https://mobility.dgist.ac.kr/'
           company_logo: org-x
           location: Convergence Research Institute, DGIST
           date_start: '2020-10-01'
@@ -105,7 +105,7 @@ sections:
 
         - title: Research Intern
           company: Theoretical and Computational Biophysics Laboratory
-          company_url: 'https://dgist.ac.kr/'
+          company_url: 'https://biophysics.dgist.ac.kr/index.htm'
           company_logo: org-x
           location: Dept. of Brain Science, DGIST
           date_start: '2020-01-01'
@@ -117,6 +117,65 @@ sections:
     design:
       columns: '2'
   
+  - block: experience
+    content:
+      title: Work Experience
+      # Date format for experience
+      #   Refer to https://docs.hugoblox.com/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Product Manager
+          company: OnCloud9
+          company_url: ''
+          # company_logo: '../images/lablogo.png'
+          company_logo: org-x
+          location: 
+          date_start: '2021-06-01'
+          date_end: '2022-11-25'
+          description: |2-
+              **[NFT Project :: [HAJUNGWOO X SUPERNORMAL] by AVANT GARDE](https://avantgarde.design/)**
+                - Contributing to the designing of NFT generative algorithm, community (Discord, Twitter) concept/content/channel planning and management, and holder utility planning.
+                - In particular, prioritizing the planning of utilities that allow WEB3 players to experience 'Interoperability' in the WEB3 world (Metaverse and games) while considering the mental model of WEB3 players.
+                
+              **Project $LUCK**
+                - Contributing to the planning and development of a utility token (ERC-20 Interface) for a blockchain-based viral marketing protocol, $LUCK, utilizing Binance Smart Chain (BSC).
+                - Responsibilities include: planning the token concept and utility, designing a sustainable token ecosystem, planning and writing the whitepaper, planning the landing page, and planning and managing the community concept/content/channel.
+
+              **Conducting research on WEB3 items**
+                - Planning WEB3-based solutions for the gaming industry.
+                - Conducting research on game industry-related companies within a specified period, based on the amount of funding from investors, and reviewing the feasibility of applying WEB3-based technologies within their solutions.
+
+        - title: Marketing Intern
+          company: Doctors
+          company_url: ''
+          company_logo: org-x
+          location: 
+          date_start: '2021-06-01'
+          date_end: '2021-08-21'
+          description: |2-
+              **BNPL (Buy Now Pay Later)**
+              - Reviewing the business feasibility of BNPL items targeting the MZ generation and established a strategy for their application in the domestic market.
+
+
+        - title: Marketer
+          company: Movers
+          company_url: 'https://datalab.dgist.ac.kr/'
+          company_logo: org-x
+          location: 
+          date_start: '2021-02-01'
+          date_end: '2021-06-21'
+          description: |2-
+              **AI-based home training posture guide solution for older adults to solve lack of exercise**
+              - Conducting research and developing technology through a UGRP (Undergraduate Group Research Program) and proceeding to start a business.
+              - Conducting a Product-market fit exploration in "AI-based home training posture guide solution" and focusing on the target demographic of older adults, and the problem of lack of exercise to develop the product.
+
+    design:
+      columns: '2'
   
   # - block: accomplishments
   #   content:
