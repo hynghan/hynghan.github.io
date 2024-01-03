@@ -82,7 +82,7 @@ sections:
           company_logo: org-x
           location: Convergence Research Institute, DGIST
           date_start: '2020-10-01'
-          date_end: '2021-12-31'
+          date_end: '2021-12-21'
           description: |2-
               Responsibilities include:
 
@@ -96,7 +96,7 @@ sections:
           company_logo: org-x
           location: Dept. of Electrical Engineering & Computer Science, DGIST
           date_start: '2020-06-01'
-          date_end: '2020-08-31'
+          date_end: '2020-08-21'
           description: |2-
               Responsibilities include:
 
@@ -109,7 +109,7 @@ sections:
           company_logo: org-x
           location: Dept. of Brain Science, DGIST
           date_start: '2020-01-01'
-          date_end: '2020-02-31'
+          date_end: '2020-02-11'
           description: |2-
               Responsibilities include:
 
